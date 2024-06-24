@@ -1,7 +1,8 @@
 # Football_Predictions
-In this project, we'll predict the winner of football matches in the English Premier League (EPL).
+In this project, I predicted the winner of football matches in the English Premier League (EPL).
+You will need the csv.file to run the Colab notebook.
 
-Project Steps
+Project Steps:
 
 Clean the data and get it ready for machine learning using pandas.
 
